@@ -1,0 +1,533 @@
+#                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_3 -            9.7e-07   22.3   0.4   2.1e-06   21.2   0.2   1.7   1   1   1   2   2   2   1 S4 domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_18 -              4e-32  105.4   0.0   7.7e-32  104.5   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+LXG                  PF04740.11 gi|152930382|gb|CP000727.1|_38 -            0.00051   13.6   0.3   0.00073   13.1   0.3   1.3   1   0   0   1   1   1   1 LXG domain of WXG superfamily
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_59 -            1.3e-06   22.5   0.0   1.6e-06   22.1   0.0   1.2   1   0   0   1   1   1   1 FtsJ-like methyltransferase
+NLPC_P60             PF00877.18 gi|152930382|gb|CP000727.1|_61 -            1.6e-31  102.3   0.1   6.1e-31  100.5   0.1   2.0   1   0   0   1   1   1   1 NlpC/P60 family
+MazE_antitoxin       PF04014.17 gi|152930382|gb|CP000727.1|_62 -            1.1e-12   41.5   0.0   1.4e-12   41.1   0.0   1.2   1   0   0   1   1   1   1 Antidote-toxin recognition MazE, bacterial antitoxin
+3D                   PF06725.10 gi|152930382|gb|CP000727.1|_76 -            2.1e-24   79.4   0.1   5.7e-24   78.0   0.1   1.8   1   0   0   1   1   1   1 3D domain
+Peptidase_M23        PF01551.21 gi|152930382|gb|CP000727.1|_82 -            0.00031   14.8   5.1   0.00067   13.7   0.4   2.8   3   0   0   3   3   3   1 Peptidase family M23
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_83 -            1.2e-34  113.6   0.0   1.8e-34  113.1   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+Glyco_hydro_18       PF00704.27 gi|152930382|gb|CP000727.1|_88 -               0.07    6.6   8.3     0.021    8.3   4.6   2.0   2   1   0   2   2   2   0 Glycosyl hydrolases family 18
+LysM                 PF01476.19 gi|152930382|gb|CP000727.1|_113 -            5.5e-19   61.9   0.8   1.3e-18   60.7   0.8   1.7   1   0   0   1   1   1   1 LysM domain
+PepSY                PF03413.18 gi|152930382|gb|CP000727.1|_123 -            6.7e-11   36.5   3.3   9.9e-07   23.1   0.0   3.7   2   1   1   3   3   3   2 Peptidase propeptide and YPEB domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_151 -            0.00034   15.0   0.0   0.00082   13.7   0.0   1.6   1   0   0   1   1   1   1 ABC transporter
+Peptidase_M23        PF01551.21 gi|152930382|gb|CP000727.1|_156 -            1.1e-23   77.2   2.1   1.2e-23   77.0   0.6   1.8   2   0   0   2   2   2   1 Peptidase family M23
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_162 -            0.00082   13.7   0.0    0.0025   12.2   0.0   1.8   1   0   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_172 -            0.00028   14.0   0.0   0.00029   14.0   0.0   1.1   1   0   0   1   1   1   1 Zeta toxin
+Metallophos          PF00149.27 gi|152930382|gb|CP000727.1|_173 -            5.8e-15   50.1   4.1   7.7e-15   49.7   4.1   1.1   1   0   0   1   1   1   1 Calcineurin-like phosphoesterase
+Pyr_redox_dim        PF02852.21 gi|152930382|gb|CP000727.1|_175 -            4.1e-12   40.2   0.0   2.2e-11   37.9   0.0   2.3   2   0   0   2   2   2   1 Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain
+Amino_oxidase        PF01593.23 gi|152930382|gb|CP000727.1|_175 -              4e-06   20.1   0.0     0.016    8.3   0.0   3.1   4   0   0   4   4   4   2 Flavin containing amine oxidoreductase
+PG_binding_1         PF01471.17 gi|152930382|gb|CP000727.1|_196 -            2.3e-19   63.3   0.2   7.1e-19   61.7   0.1   1.9   2   0   0   2   2   2   1 Putative peptidoglycan binding domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_212 -            1.2e-53  175.1   0.5   2.7e-33  109.2   0.1   2.3   2   0   0   2   2   2   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_212 -             0.0046   10.9   2.3     0.028    8.4   0.0   3.0   3   0   0   3   3   3   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_266 -            7.3e-34  111.1   0.0   1.1e-33  110.5   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_266 -             0.0051   10.8   1.8     0.014    9.3   1.8   2.0   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Peptidase_M23        PF01551.21 gi|152930382|gb|CP000727.1|_271 -            0.00046   14.2   0.0   0.00091   13.3   0.0   1.5   1   0   0   1   1   1   1 Peptidase family M23
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_295 -            1.3e-35  116.7   0.0   1.7e-35  116.3   0.0   1.1   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_295 -              0.001   13.0   0.2     0.002   12.1   0.2   1.6   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_303 -            3.4e-34  112.1   0.1     5e-34  111.6   0.1   1.2   1   0   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_303 -            0.00019   14.5   0.1   0.00031   13.9   0.1   1.3   1   0   0   1   1   1   1 Zeta toxin
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_304 -              7e-50  164.0  14.1   1.8e-49  162.7  14.5   1.5   2   0   0   2   2   2   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_304 -            1.1e-38  126.7   0.0   2.7e-38  125.4   0.0   1.7   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_311 -              7e-36  117.6   0.1   9.8e-36  117.1   0.1   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_311 -            0.00024   15.1   0.6    0.0004   14.3   0.5   1.7   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_344 -            4.8e-05   17.4   0.0   5.5e-05   17.2   0.0   1.1   1   0   0   1   1   1   1 FtsJ-like methyltransferase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_379 -            6.8e-06   20.5   2.0    0.0013   13.0   0.0   3.8   3   0   0   3   3   3   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_379 -            3.2e-05   17.1   0.0    0.0034   10.5   0.0   2.8   2   0   0   2   2   2   2 Zeta toxin
+PemK_toxin           PF02452.16 gi|152930382|gb|CP000727.1|_389 -            1.1e-31  103.3   0.8   1.7e-31  102.7   0.2   1.6   2   0   0   2   2   2   1 PemK-like, MazF-like toxin of type II toxin-antitoxin system
+FecR                 PF04773.12 gi|152930382|gb|CP000727.1|_398 -             0.0022   12.5   0.0    0.0058   11.1   0.0   1.6   1   0   0   1   1   1   1 FecR protein
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_406 -            3.3e-38  125.1   0.1   4.4e-38  124.7   0.1   1.2   1   0   0   1   1   1   1 ABC transporter
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_406 -            3.2e-05   17.2   0.4   0.00011   15.4   0.1   2.0   2   1   0   2   2   2   1 FtsK/SpoIIIE family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_414 -            4.7e-36  118.2   0.5   6.4e-36  117.7   0.5   1.2   1   0   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_414 -            0.00051   13.2   0.0   0.00072   12.7   0.0   1.3   1   0   0   1   1   1   1 Zeta toxin
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_421 -            5.7e-34  111.8  27.1   8.1e-34  111.3  27.1   1.2   1   0   0   1   1   1   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_421 -            5.8e-33  108.1   0.0   1.1e-32  107.2   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+VWA                  PF00092.27 gi|152930382|gb|CP000727.1|_425 -            0.00081   13.5   0.5    0.0028   11.8   0.3   1.8   1   1   1   2   2   2   1 von Willebrand factor type A domain
+Amino_oxidase        PF01593.23 gi|152930382|gb|CP000727.1|_427 -            0.00014   15.0   0.0   0.00022   14.4   0.0   1.2   1   0   0   1   1   1   1 Flavin containing amine oxidoreductase
+Patatin              PF01734.21 gi|152930382|gb|CP000727.1|_434 -            5.3e-27   89.1   0.0     8e-27   88.5   0.0   1.3   1   0   0   1   1   1   1 Patatin-like phospholipase
+Glyoxalase           PF00903.24 gi|152930382|gb|CP000727.1|_436 -            2.8e-06   21.4   0.8   1.2e-05   19.4   0.8   1.8   1   1   0   1   1   1   1 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_449 -            6.2e-35  114.5   0.0   8.3e-35  114.1   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_449 -            0.00085   13.3   0.8    0.0016   12.4   0.8   1.7   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_450 -            3.5e-31  102.4   0.2   5.5e-31  101.7   0.2   1.3   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_450 -            3.2e-05   17.9   0.2   8.8e-05   16.4   0.1   1.7   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_450 -              0.001   12.3   0.1    0.0015   11.7   0.1   1.2   1   0   0   1   1   1   1 FtsK/SpoIIIE family
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_450 -              0.001   12.2   0.0    0.0017   11.4   0.0   1.3   1   0   0   1   1   1   1 Zeta toxin
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_462 -            2.9e-05   18.1   0.0   4.5e-05   17.4   0.0   1.4   1   1   0   1   1   1   1 FtsJ-like methyltransferase
+Metallophos          PF00149.27 gi|152930382|gb|CP000727.1|_465 -            1.1e-15   52.5   0.0   1.6e-15   51.9   0.0   1.3   1   0   0   1   1   1   1 Calcineurin-like phosphoesterase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_466 -            0.00027   15.3   0.0   0.00027   15.3   0.0   6.8   3   2   0   3   3   3   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_466 -               0.65    4.0  10.4     0.046    7.7   0.0   4.2   3   1   0   3   3   3   0 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_487 -            4.3e-37  121.5   0.0   1.3e-36  120.0   0.0   1.7   2   0   0   2   2   2   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_487 -             0.0019   12.1   4.4    0.0073   10.3   0.1   2.6   2   1   0   2   2   2   1 50S ribosome-binding GTPase
+Colicin              PF01024.18 gi|152930382|gb|CP000727.1|_488 -                1.7    2.3  13.6      0.31    4.7   1.8   2.9   3   0   0   3   3   3   0 Colicin pore forming domain
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_494 -            0.00031   14.7   0.0   0.00051   14.0   0.0   1.4   1   1   0   1   1   1   1 FtsJ-like methyltransferase
+NLPC_P60             PF00877.18 gi|152930382|gb|CP000727.1|_499 -            6.8e-31  100.3   0.6   7.7e-30   96.9   0.1   2.8   2   0   0   2   2   2   1 NlpC/P60 family
+CHAP                 PF05257.15 gi|152930382|gb|CP000727.1|_499 -            1.3e-18   61.2   6.8   5.2e-15   49.7   1.8   3.9   2   1   1   3   3   3   2 CHAP domain
+Metallophos          PF00149.27 gi|152930382|gb|CP000727.1|_510 -            0.00078   13.8   0.0     0.036    8.4   0.0   3.0   3   1   0   3   3   3   1 Calcineurin-like phosphoesterase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_529 -            1.8e-20   67.7   2.9   8.1e-20   65.6   0.2   2.7   2   1   0   2   2   2   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_530 -            6.6e-22   72.4   2.6   7.9e-18   59.1   0.2   3.1   2   1   0   2   2   2   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_530 -            0.00024   15.1   0.6   0.00042   14.3   0.6   1.9   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_535 -            1.5e-23   77.7   0.0   2.4e-23   77.0   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_537 -            5.9e-37  121.1   0.0   1.6e-36  119.7   0.0   1.7   2   0   0   2   2   2   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_557 -            1.1e-49  163.3  22.2     2e-49  162.5  22.2   1.4   1   0   0   1   1   1   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_557 -              2e-33  109.7   1.7   2.6e-33  109.3   0.5   1.9   2   0   0   2   2   2   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_557 -            4.8e-05   16.5   0.0   9.6e-05   15.5   0.0   1.5   1   0   0   1   1   1   1 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_557 -            0.00063   13.7   0.8    0.0036   11.2   0.1   2.4   2   1   0   2   2   2   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_561 -            7.9e-36  117.4   0.0   1.2e-35  116.9   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_590 -            1.1e-34  114.1  24.1   1.7e-34  113.5  24.1   1.3   1   0   0   1   1   1   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_590 -            2.1e-34  112.8   0.3   4.1e-34  111.9   0.3   1.5   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_598 -            5.8e-10   33.7   0.0   1.5e-09   32.3   0.0   1.6   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_599 -            1.8e-33  109.8   0.2   2.4e-33  109.4   0.2   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_599 -            0.00014   15.8   1.3   0.00028   14.8   0.6   1.9   1   1   1   2   2   2   1 50S ribosome-binding GTPase
+Peptidase_M23        PF01551.21 gi|152930382|gb|CP000727.1|_623 -            0.00084   13.4   0.1    0.0029   11.7   0.1   1.9   1   0   0   1   1   1   1 Peptidase family M23
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_636 -            7.8e-32  104.5   0.4   1.8e-31  103.3   0.1   1.6   2   0   0   2   2   2   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_636 -            0.00017   15.5   0.2   0.00036   14.5   0.2   1.6   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+FG-GAP               PF01839.22 gi|152930382|gb|CP000727.1|_644 -              0.024    8.7   8.6     0.044    7.8   0.6   3.1   3   0   0   3   3   3   0 FG-GAP repeat
+HTH_Tnp_1            PF01527.19 gi|152930382|gb|CP000727.1|_652 -             0.0023   12.1   0.0    0.0094   10.2   0.0   2.0   1   1   1   2   2   2   1 Transposase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_656 -            2.6e-34  112.5   0.1   3.4e-34  112.1   0.1   1.1   1   0   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_656 -            1.6e-05   18.1   0.0   2.4e-05   17.5   0.0   1.2   1   0   0   1   1   1   1 Zeta toxin
+Pyr_redox_dim        PF02852.21 gi|152930382|gb|CP000727.1|_666 -            1.9e-39  128.2   1.1   4.8e-39  126.9   0.6   2.0   2   0   0   2   2   2   1 Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_675 -            6.2e-30   98.3   0.1     8e-30   98.0   0.1   1.1   1   0   0   1   1   1   1 ABC transporter
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_675 -            5.7e-05   16.3   0.1   0.00012   15.3   0.1   1.6   2   0   0   2   2   2   1 AIG1 family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_677 -            1.2e-25   84.5   1.5   2.5e-16   54.3   0.1   3.7   3   1   0   3   3   3   3 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_677 -            1.8e-05   17.9   0.0     0.014    8.5   0.0   2.7   2   0   0   2   2   2   2 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_687 -            8.5e-51  165.9   5.8     5e-27   88.9   0.3   3.3   3   1   0   3   3   3   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_687 -            1.4e-06   22.2   0.3    0.0093    9.9   0.1   3.1   2   0   0   2   2   2   2 50S ribosome-binding GTPase
+Septin               PF00735.17 gi|152930382|gb|CP000727.1|_687 -            7.8e-05   15.8   0.5     0.013    8.5   0.1   2.5   2   0   0   2   2   2   2 Septin
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_687 -            0.00015   15.0   1.1     0.036    7.2   0.0   2.3   2   0   0   2   2   2   2 FtsK/SpoIIIE family
+Glyco_hydro_18       PF00704.27 gi|152930382|gb|CP000727.1|_693 -            1.7e-86  284.5   6.7   2.8e-86  283.8   6.7   1.4   1   0   0   1   1   1   1 Glycosyl hydrolases family 18
+Peptidase_M78        PF06114.12 gi|152930382|gb|CP000727.1|_697 -            1.2e-15   51.3   0.2   1.6e-15   50.9   0.2   1.3   1   0   0   1   1   1   1 IrrE N-terminal-like domain
+Amidase_2            PF01510.24 gi|152930382|gb|CP000727.1|_707 -            1.3e-23   77.7   0.9   1.8e-23   77.2   0.9   1.2   1   0   0   1   1   1   1 N-acetylmuramoyl-L-alanine amidase
+PG_binding_1         PF01471.17 gi|152930382|gb|CP000727.1|_707 -            9.6e-14   45.3   0.0   1.8e-13   44.4   0.0   1.4   1   0   0   1   1   1   1 Putative peptidoglycan binding domain
+LysM                 PF01476.19 gi|152930382|gb|CP000727.1|_714 -            2.9e-09   30.8   0.1   6.7e-09   29.6   0.0   1.7   2   0   0   2   2   2   1 LysM domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_719 -            4.8e-06   21.0   2.6    0.0005   14.4   0.1   3.5   2   2   0   2   2   2   2 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_719 -            0.00012   15.2   2.8    0.0032   10.6   0.2   2.8   3   0   0   3   3   3   2 Zeta toxin
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_721 -            0.00012   16.0   0.0   0.00024   15.1   0.0   1.5   2   0   0   2   2   2   1 FtsJ-like methyltransferase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_728 -            1.2e-31  103.9   0.5     2e-31  103.2   0.1   1.5   2   0   0   2   2   2   1 ABC transporter
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_732 -            0.00014   15.8   0.0   0.00024   15.1   0.0   1.4   1   0   0   1   1   1   1 FtsJ-like methyltransferase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_737 -            5.7e-31  101.7   0.0   9.8e-31  100.9   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_740 -            1.1e-33  110.5   0.0   1.9e-33  109.7   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_746 -            2.9e-35  115.6   0.0   4.5e-35  115.0   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_746 -            0.00028   14.8   0.2    0.0014   12.6   0.0   2.1   2   1   0   2   2   2   1 50S ribosome-binding GTPase
+HTH_Tnp_1            PF01527.19 gi|152930382|gb|CP000727.1|_761 -            6.5e-05   17.1   0.0   0.00013   16.2   0.0   1.5   2   0   0   2   2   2   1 Transposase
+Clenterotox          PF03505.13 gi|152930382|gb|CP000727.1|_762 -           6.7e-119  388.4  26.7    8e-109  355.5   9.3   3.1   3   0   0   3   3   3   2 Clostridium enterotoxin
+Botulinum_HA-17      PF05588.10 gi|152930382|gb|CP000727.1|_763 -            1.6e-84  275.1  12.3   1.8e-84  275.0  12.3   1.0   1   0   0   1   1   1   1 Clostridium botulinum HA-17 domain
+Botulinum_HA-17      PF05588.10 gi|152930382|gb|CP000727.1|_764 -            1.8e-09   31.6  29.9   4.4e-06   20.7   6.3   4.0   1   1   3   4   4   4   2 Clostridium botulinum HA-17 domain
+Ricin_B_lectin       PF00652.21 gi|152930382|gb|CP000727.1|_764 -            5.8e-07   23.7  11.5   2.6e-06   21.6   0.7   3.4   2   2   1   3   3   3   2 Ricin-type beta-trefoil lectin domain
+Peptidase_M27        PF01742.16 gi|152930382|gb|CP000727.1|_766 -           6.2e-150  493.7  20.0  6.2e-150  493.7  20.0   3.9   3   1   0   3   3   3   1 Clostridial neurotoxin zinc protease
+Peptidase_M27        PF01742.16 gi|152930382|gb|CP000727.1|_767 -           3.7e-189  622.9  14.1  3.7e-189  622.9  14.1   2.4   2   0   0   2   2   2   1 Clostridial neurotoxin zinc protease
+HTH_Tnp_1            PF01527.19 gi|152930382|gb|CP000727.1|_769 -            1.5e-08   28.7   0.0   1.7e-08   28.6   0.0   1.0   1   0   0   1   1   1   1 Transposase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_777 -            3.3e-21   69.4   0.1   5.5e-21   68.7   0.1   1.4   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_777 -            2.1e-05   17.7   0.1     7e-05   16.0   0.1   1.8   2   0   0   2   2   2   1 AIG1 family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_777 -            0.00025   15.4   0.2   0.00039   14.8   0.2   1.7   1   1   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_803 -            4.1e-29   95.7   0.0   7.3e-29   94.9   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_863 -            5.1e-34  111.6   0.0   1.7e-33  109.8   0.0   1.9   1   0   0   1   1   1   1 ABC transporter
+HTH_Tnp_1            PF01527.19 gi|152930382|gb|CP000727.1|_888 -             0.0018   12.5   0.1     0.004   11.3   0.0   1.6   2   0   0   2   2   2   1 Transposase
+Fic                  PF02661.17 gi|152930382|gb|CP000727.1|_892 -            1.2e-22   74.5   0.0   2.1e-22   73.7   0.0   1.4   1   0   0   1   1   1   1 Fic/DOC family
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_899 -             0.0013   12.6   0.0     0.005   10.8   0.0   1.8   2   0   0   2   2   2   1 FtsJ-like methyltransferase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_923 -            5.3e-31  101.8   0.0     7e-31  101.4   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_927 -            9.8e-35  113.9   0.1   6.9e-34  111.1   0.0   2.0   2   0   0   2   2   2   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_931 -            6.5e-34  111.2   0.0   8.5e-34  110.8   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+PPC                  PF04151.14 gi|152930382|gb|CP000727.1|_947 -            2.2e-05   19.3   3.4   4.3e-05   18.4   0.0   2.7   1   1   2   3   3   3   1 Bacterial pre-peptidase C-terminal domain
+Zn_dep_PLPC          PF00882.17 gi|152930382|gb|CP000727.1|_952 -            1.3e-30  100.6   0.9   1.6e-30  100.2   0.9   1.1   1   0   0   1   1   1   1 Zinc dependent phospholipase C
+Metallophos          PF00149.27 gi|152930382|gb|CP000727.1|_955 -            2.1e-13   45.0   1.6   1.7e-12   42.1   1.6   2.0   1   1   0   1   1   1   1 Calcineurin-like phosphoesterase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_961 -            0.00088   12.4   0.0    0.0016   11.6   0.0   1.4   1   0   0   1   1   1   1 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_961 -             0.0009   13.6   0.1     0.011   10.1   0.0   2.5   2   0   0   2   2   2   1 ABC transporter
+Peptidase_S8         PF00082.21 gi|152930382|gb|CP000727.1|_964 -             0.0016   11.5   0.1    0.0052    9.8   0.0   1.8   2   0   0   2   2   2   1 Subtilase family
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_988 -            7.6e-20   65.0   0.0   1.7e-19   63.8   0.0   1.6   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_988 -            7.6e-06   19.2   0.0   1.9e-05   17.9   0.0   1.7   1   0   0   1   1   1   1 AIG1 family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_988 -             0.0042   11.4   1.1     0.011   10.1   1.0   1.9   1   1   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1005 -            1.9e-34  113.0   0.1     3e-34  112.3   0.1   1.3   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1008 -            2.9e-33  109.1   0.0   5.6e-33  108.2   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1008 -            1.8e-19   64.2  13.0   2.9e-19   63.6  13.0   1.3   1   0   0   1   1   1   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1009 -            1.6e-37  123.0   0.0   2.5e-37  122.3   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1009 -            9.2e-18   58.6   7.2   1.5e-17   58.0   7.2   1.3   1   0   0   1   1   1   1 ABC transporter transmembrane region
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1009 -            3.3e-06   20.3   0.0     7e-06   19.3   0.0   1.5   1   0   0   1   1   1   1 Zeta toxin
+Glyco_hydro_18       PF00704.27 gi|152930382|gb|CP000727.1|_1015 -            9.5e-33  108.0   4.6   5.4e-32  105.5   4.6   2.0   1   1   0   1   1   1   1 Glycosyl hydrolases family 18
+fn3                  PF00041.20 gi|152930382|gb|CP000727.1|_1015 -            0.00038   14.7   0.2    0.0028   11.9   0.1   2.5   2   1   0   2   2   2   1 Fibronectin type III domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1021 -            7.2e-50  162.9   4.2   2.2e-27   90.1   0.1   3.7   3   0   0   3   3   3   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1021 -            2.6e-08   27.8   7.3   2.7e-06   21.3   0.1   3.5   4   0   0   4   4   4   2 50S ribosome-binding GTPase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1034 -            3.9e-22   72.3   0.5   6.9e-22   71.6   0.5   1.4   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+Glyco_hydro_18       PF00704.27 gi|152930382|gb|CP000727.1|_1038 -            3.3e-12   40.5   0.8   5.7e-12   39.7   0.8   1.4   1   1   0   1   1   1   1 Glycosyl hydrolases family 18
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1041 -            1.7e-38  126.1   0.3   3.1e-38  125.2   0.3   1.4   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1041 -            0.00033   14.6   0.6    0.0011   13.0   0.0   2.2   2   1   1   3   3   3   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1065 -            5.6e-38  124.4   0.1   1.6e-37  122.9   0.0   1.7   2   0   0   2   2   2   1 ABC transporter
+Patatin              PF01734.21 gi|152930382|gb|CP000727.1|_1078 -            0.00022   15.2   0.0   0.00026   15.0   0.0   1.4   1   1   0   1   1   1   1 Patatin-like phospholipase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1099 -             0.0012   13.2   0.0    0.0032   11.8   0.0   1.7   1   0   0   1   1   1   1 ABC transporter
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_1099 -             0.0013   12.0   0.4    0.0035   10.5   0.0   1.9   2   0   0   2   2   2   1 FtsK/SpoIIIE family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1104 -            1.1e-36  120.2   0.0   2.1e-36  119.3   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1112 -            7.6e-34  111.0   1.1     9e-34  110.8   0.3   1.5   2   0   0   2   2   2   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1112 -            7.1e-05   16.7   0.3   0.00018   15.4   0.1   1.8   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1112 -            0.00032   13.8   0.0   0.00052   13.2   0.0   1.3   1   0   0   1   1   1   1 Zeta toxin
+PLDc                 PF00614.21 gi|152930382|gb|CP000727.1|_1116 -            1.7e-05   18.7   0.0   4.4e-05   17.4   0.0   1.7   1   0   0   1   1   1   1 Phospholipase D Active site motif
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1136 -            8.5e-34  110.9   0.0   1.7e-33  109.9   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+Amino_oxidase        PF01593.23 gi|152930382|gb|CP000727.1|_1144 -            2.2e-42  139.6   0.0   3.1e-42  139.2   0.0   1.2   1   0   0   1   1   1   1 Flavin containing amine oxidoreductase
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_1151 -            1.2e-12   41.2   0.2   2.4e-12   40.2   0.2   1.5   1   0   0   1   1   1   1 S4 domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1153 -            6.1e-24   78.9   0.1   1.4e-23   77.8   0.0   1.7   2   0   0   2   2   2   1 ABC transporter
+LysM                 PF01476.19 gi|152930382|gb|CP000727.1|_1158 -            1.2e-33  108.8   2.9   1.2e-17   57.5   0.0   3.4   4   0   0   4   4   4   2 LysM domain
+Glyco_hydro_18       PF00704.27 gi|152930382|gb|CP000727.1|_1158 -            4.2e-28   92.7   0.0   5.8e-28   92.3   0.0   1.2   1   0   0   1   1   1   1 Glycosyl hydrolases family 18
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1169 -            2.7e-38  125.4   0.0   3.7e-38  125.0   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_1169 -            0.00021   14.5   0.3   0.00042   13.5   0.2   1.5   2   0   0   2   2   2   1 FtsK/SpoIIIE family
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1169 -            0.00025   15.0   0.6   0.00043   14.2   0.6   1.9   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1248 -            1.2e-42  140.2  15.6   1.6e-42  139.9  15.6   1.1   1   0   0   1   1   1   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1248 -              3e-36  118.8   0.0   6.2e-36  117.8   0.0   1.6   1   0   0   1   1   1   1 ABC transporter
+LysM                 PF01476.19 gi|152930382|gb|CP000727.1|_1263 -            1.6e-27   89.2   1.5   1.6e-13   44.4   0.1   2.3   2   0   0   2   2   2   2 LysM domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1278 -            1.8e-33  109.8   0.1   2.8e-33  109.2   0.1   1.3   1   0   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1278 -            1.8e-05   17.9   0.0   2.6e-05   17.4   0.0   1.4   1   0   0   1   1   1   1 Zeta toxin
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_1278 -            0.00022   14.5   0.0   0.00043   13.5   0.0   1.4   1   0   0   1   1   1   1 FtsK/SpoIIIE family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1295 -            1.1e-25   84.5   0.0   1.8e-25   83.9   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1296 -            6.7e-36  117.7   0.1   1.3e-35  116.7   0.0   1.5   2   0   0   2   2   2   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1296 -             0.0016   12.4   0.1    0.0033   11.4   0.0   1.7   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1299 -            1.5e-32  106.8   0.3   2.6e-32  106.0   0.1   1.5   2   0   0   2   2   2   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1306 -            1.5e-26   87.4   0.0   2.8e-26   86.5   0.0   1.5   1   1   0   1   1   1   1 ABC transporter
+Peptidase_M14        PF00246.23 gi|152930382|gb|CP000727.1|_1309 -              2e-41  136.5   1.1   3.9e-41  135.5   1.1   1.4   1   1   0   1   1   1   1 Zinc carboxypeptidase
+PG_binding_1         PF01471.17 gi|152930382|gb|CP000727.1|_1309 -            5.5e-21   68.5   0.0     1e-20   67.6   0.0   1.5   1   0   0   1   1   1   1 Putative peptidoglycan binding domain
+LysM                 PF01476.19 gi|152930382|gb|CP000727.1|_1309 -            2.6e-14   46.9   0.6   2.6e-14   46.9   0.6   3.2   3   0   0   3   3   3   1 LysM domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1315 -            2.1e-35  116.0   0.1   4.6e-35  115.0   0.1   1.5   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1315 -            9.8e-05   16.3   1.1   0.00027   14.8   0.9   2.0   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1327 -            4.8e-37  121.4   0.0     7e-37  120.8   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1327 -            0.00021   15.2   1.1   0.00059   13.8   1.1   2.1   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1327 -            0.00089   12.4   0.1    0.0015   11.7   0.1   1.3   1   0   0   1   1   1   1 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1332 -              4e-36  118.4   0.3   5.4e-36  118.0   0.3   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1338 -            5.3e-37  121.2   0.2   8.3e-37  120.6   0.2   1.3   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1338 -             0.0013   12.6   0.5    0.0031   11.5   0.5   2.0   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Sipho_tail           PF05709.10 gi|152930382|gb|CP000727.1|_1351 -            4.8e-18   59.3   1.9   5.6e-18   59.1   1.9   1.0   1   0   0   1   1   1   1 Phage tail protein
+PG_binding_1         PF01471.17 gi|152930382|gb|CP000727.1|_1361 -            9.9e-11   35.6   0.0   1.9e-10   34.7   0.0   1.5   1   0   0   1   1   1   1 Putative peptidoglycan binding domain
+Phage_lysozyme       PF00959.18 gi|152930382|gb|CP000727.1|_1361 -            0.00044   14.6   0.2     0.021    9.2   0.1   2.5   2   1   0   2   2   2   1 Phage lysozyme
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_1370 -            1.1e-08   28.5   0.0   2.2e-08   27.6   0.0   1.5   1   0   0   1   1   1   1 S4 domain
+Peptidase_M4_C       PF02868.14 gi|152930382|gb|CP000727.1|_1377 -              4e-24   79.2   0.1   4.3e-24   79.1   0.1   1.0   1   0   0   1   1   1   1 Thermolysin metallopeptidase, alpha-helical domain
+PepSY                PF03413.18 gi|152930382|gb|CP000727.1|_1378 -            1.1e-09   32.6   1.9   1.5e-08   29.0   0.5   2.5   2   0   0   2   2   2   1 Peptidase propeptide and YPEB domain
+FTP                  PF07504.12 gi|152930382|gb|CP000727.1|_1378 -            2.7e-06   21.0   0.1   5.4e-06   20.0   0.1   1.5   1   0   0   1   1   1   1 Fungalysin/Thermolysin Propeptide Motif
+Peptidase_M4_C       PF02868.14 gi|152930382|gb|CP000727.1|_1379 -            2.2e-53  174.4   0.2   4.4e-53  173.4   0.2   1.5   1   0   0   1   1   1   1 Thermolysin metallopeptidase, alpha-helical domain
+Peptidase_M4         PF01447.17 gi|152930382|gb|CP000727.1|_1379 -            3.2e-45  148.0   6.0   3.2e-45  148.0   6.0   3.0   2   1   2   4   4   4   1 Thermolysin metallopeptidase, catalytic domain
+FTP                  PF07504.12 gi|152930382|gb|CP000727.1|_1379 -            7.7e-10   32.4   0.4   7.7e-10   32.4   0.4   2.2   3   0   0   3   3   3   1 Fungalysin/Thermolysin Propeptide Motif
+PepSY                PF03413.18 gi|152930382|gb|CP000727.1|_1379 -            1.4e-09   32.2   1.7   2.4e-08   28.3   0.5   2.9   2   0   0   2   2   2   1 Peptidase propeptide and YPEB domain
+Peptidase_M4_C       PF02868.14 gi|152930382|gb|CP000727.1|_1380 -            3.9e-53  173.6   0.8   3.9e-53  173.6   0.8   1.9   2   0   0   2   2   2   1 Thermolysin metallopeptidase, alpha-helical domain
+Peptidase_M4         PF01447.17 gi|152930382|gb|CP000727.1|_1380 -              3e-48  157.9   5.5     3e-48  157.9   5.5   2.3   2   1   0   2   2   2   1 Thermolysin metallopeptidase, catalytic domain
+FTP                  PF07504.12 gi|152930382|gb|CP000727.1|_1380 -            3.6e-10   33.4   0.5   1.3e-09   31.6   0.5   2.1   1   0   0   1   1   1   1 Fungalysin/Thermolysin Propeptide Motif
+PepSY                PF03413.18 gi|152930382|gb|CP000727.1|_1380 -            1.9e-09   31.8   0.3   1.9e-09   31.8   0.3   3.4   3   1   0   3   3   3   1 Peptidase propeptide and YPEB domain
+Peptidase_M4_C       PF02868.14 gi|152930382|gb|CP000727.1|_1381 -            3.7e-52  170.4   0.7   7.3e-52  169.4   0.1   1.9   2   0   0   2   2   2   1 Thermolysin metallopeptidase, alpha-helical domain
+Peptidase_M4         PF01447.17 gi|152930382|gb|CP000727.1|_1381 -            1.3e-46  152.5   6.2   1.3e-46  152.5   6.2   2.1   2   0   0   2   2   2   1 Thermolysin metallopeptidase, catalytic domain
+PepSY                PF03413.18 gi|152930382|gb|CP000727.1|_1381 -              7e-11   36.4   3.3   5.3e-10   33.6   0.8   3.1   2   0   0   2   2   2   1 Peptidase propeptide and YPEB domain
+FTP                  PF07504.12 gi|152930382|gb|CP000727.1|_1381 -            1.1e-09   31.8   0.5   2.9e-09   30.5   0.5   1.8   1   0   0   1   1   1   1 Fungalysin/Thermolysin Propeptide Motif
+Peptidase_M4_C       PF02868.14 gi|152930382|gb|CP000727.1|_1382 -            1.7e-51  168.2   1.4   2.3e-51  167.8   0.1   1.9   2   0   0   2   2   2   1 Thermolysin metallopeptidase, alpha-helical domain
+Peptidase_M4         PF01447.17 gi|152930382|gb|CP000727.1|_1382 -            5.9e-48  156.9   2.6   5.9e-48  156.9   2.6   2.2   2   0   0   2   2   2   1 Thermolysin metallopeptidase, catalytic domain
+PepSY                PF03413.18 gi|152930382|gb|CP000727.1|_1382 -            5.8e-11   36.7   3.3   5.3e-10   33.6   0.8   3.2   2   0   0   2   2   2   1 Peptidase propeptide and YPEB domain
+FTP                  PF07504.12 gi|152930382|gb|CP000727.1|_1382 -            1.2e-09   31.8   0.5   2.9e-09   30.5   0.5   1.7   1   0   0   1   1   1   1 Fungalysin/Thermolysin Propeptide Motif
+Peptidase_M4_C       PF02868.14 gi|152930382|gb|CP000727.1|_1383 -            2.6e-52  170.9   1.3   2.6e-52  170.9   1.3   1.9   2   0   0   2   2   2   1 Thermolysin metallopeptidase, alpha-helical domain
+Peptidase_M4         PF01447.17 gi|152930382|gb|CP000727.1|_1383 -            7.6e-48  156.6   7.9   7.6e-48  156.6   7.9   2.5   2   1   0   2   2   2   1 Thermolysin metallopeptidase, catalytic domain
+PepSY                PF03413.18 gi|152930382|gb|CP000727.1|_1383 -              1e-10   35.9   1.0     1e-10   35.9   1.0   3.6   3   1   0   3   3   3   1 Peptidase propeptide and YPEB domain
+FTP                  PF07504.12 gi|152930382|gb|CP000727.1|_1383 -            1.7e-09   31.2   2.2   2.3e-09   30.8   0.1   2.4   2   0   0   2   2   2   1 Fungalysin/Thermolysin Propeptide Motif
+Peptidase_M4_C       PF02868.14 gi|152930382|gb|CP000727.1|_1384 -            2.1e-54  177.7   0.1   4.1e-54  176.7   0.1   1.5   1   0   0   1   1   1   1 Thermolysin metallopeptidase, alpha-helical domain
+Peptidase_M4         PF01447.17 gi|152930382|gb|CP000727.1|_1384 -            5.4e-48  157.0   4.4   5.4e-48  157.0   4.4   2.0   2   0   0   2   2   2   1 Thermolysin metallopeptidase, catalytic domain
+FTP                  PF07504.12 gi|152930382|gb|CP000727.1|_1384 -            4.1e-11   36.4   0.3   1.2e-10   35.0   0.3   1.9   1   0   0   1   1   1   1 Fungalysin/Thermolysin Propeptide Motif
+PepSY                PF03413.18 gi|152930382|gb|CP000727.1|_1384 -            8.2e-09   29.8   1.6   2.8e-08   28.1   0.4   2.5   2   0   0   2   2   2   1 Peptidase propeptide and YPEB domain
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1390 -            4.1e-26   85.2   0.1   2.6e-25   82.6   0.0   2.1   1   1   1   2   2   2   1 50S ribosome-binding GTPase
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_1392 -            0.00036   14.5   0.0   0.00074   13.5   0.0   1.5   2   0   0   2   2   2   1 FtsJ-like methyltransferase
+PepSY                PF03413.18 gi|152930382|gb|CP000727.1|_1394 -              0.002   12.5   0.7      0.26    5.8   0.0   3.6   4   1   0   4   4   4   1 Peptidase propeptide and YPEB domain
+HEPN                 PF05168.13 gi|152930382|gb|CP000727.1|_1403 -              0.013    9.5   5.3    0.0042   11.1   1.0   2.3   2   1   0   2   2   2   0 HEPN domain
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_1414 -            2.5e-10   33.8   0.2   5.3e-10   32.7   0.2   1.6   1   0   0   1   1   1   1 S4 domain
+Exo_endo_phos        PF03372.22 gi|152930382|gb|CP000727.1|_1417 -            3.5e-23   76.1   0.0     4e-23   75.9   0.0   1.0   1   0   0   1   1   1   1 Endonuclease/Exonuclease/phosphatase family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1422 -            9.6e-33  107.4   0.0   1.3e-32  107.0   0.0   1.1   1   0   0   1   1   1   1 ABC transporter
+Patatin              PF01734.21 gi|152930382|gb|CP000727.1|_1424 -            1.4e-29   97.5   0.0   2.5e-29   96.7   0.0   1.4   1   0   0   1   1   1   1 Patatin-like phospholipase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1429 -            0.00023   14.3   0.0   0.00075   12.6   0.0   1.8   2   0   0   2   2   2   1 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1429 -            0.00095   13.5   0.7    0.0022   12.4   0.1   2.1   2   1   0   2   2   2   1 ABC transporter
+Clenterotox          PF03505.13 gi|152930382|gb|CP000727.1|_1431 -            0.00016   15.2   0.1   0.00022   14.7   0.1   1.3   1   0   0   1   1   1   1 Clostridium enterotoxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1434 -            2.3e-38  125.6   0.1   4.2e-38  124.8   0.1   1.4   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1434 -              0.004   11.1   1.7     0.019    9.0   0.1   2.8   3   1   0   3   3   3   1 50S ribosome-binding GTPase
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_1442 -            4.8e-05   16.6   0.0   8.2e-05   15.8   0.0   1.3   1   0   0   1   1   1   1 FtsK/SpoIIIE family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1445 -            1.9e-36  119.4   0.1   2.6e-36  119.0   0.1   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1445 -            0.00075   13.4   0.6    0.0028   11.6   0.1   2.1   2   1   0   2   2   2   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1450 -            3.9e-40  131.4   0.0   7.5e-40  130.5   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+SLAC1                PF03595.16 gi|152930382|gb|CP000727.1|_1457 -            1.8e-31  103.4  42.5   3.3e-31  102.5  42.5   1.3   1   1   0   1   1   1   1 Voltage-dependent anion channel
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1458 -             0.0034   10.8   4.9     0.005   10.3   1.4   2.4   2   0   0   2   2   2   1 ABC transporter transmembrane region
+Bacillus_HBL         PF05791.10 gi|152930382|gb|CP000727.1|_1460 -               0.71    3.5  28.0     0.043    7.5  10.2   4.7   3   1   1   4   4   4   0 Bacillus haemolytic enterotoxin (HBL)
+Glyoxalase           PF00903.24 gi|152930382|gb|CP000727.1|_1464 -            1.8e-10   35.0   0.1   2.1e-10   34.7   0.1   1.1   1   0   0   1   1   1   1 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Glyoxalase           PF00903.24 gi|152930382|gb|CP000727.1|_1477 -            9.3e-08   26.2   0.0   1.8e-07   25.3   0.0   1.5   1   1   0   1   1   1   1 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Pyr_redox_dim        PF02852.21 gi|152930382|gb|CP000727.1|_1510 -            6.6e-18   58.9   0.2   2.4e-17   57.0   0.0   2.1   3   0   0   3   3   3   1 Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1512 -            4.8e-35  114.9   0.1   6.8e-35  114.4   0.1   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1512 -            0.00026   14.9   0.1   0.00049   14.1   0.1   1.5   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1528 -            2.9e-32  105.9   0.1     6e-32  104.9   0.1   1.6   1   0   0   1   1   1   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1528 -            5.5e-27   88.9  24.2   7.6e-27   88.4  24.2   1.2   1   0   0   1   1   1   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1529 -            4.1e-35  115.1   0.1   9.4e-35  113.9   0.1   1.7   1   0   0   1   1   1   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1529 -            1.2e-23   78.0  22.6   2.1e-23   77.1  21.9   1.7   1   1   1   2   2   2   1 ABC transporter transmembrane region
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1529 -            0.00065   12.8   0.0    0.0016   11.6   0.0   1.6   1   0   0   1   1   1   1 Zeta toxin
+Exo_endo_phos        PF03372.22 gi|152930382|gb|CP000727.1|_1534 -            5.2e-07   23.3   0.0   5.8e-07   23.1   0.0   1.0   1   0   0   1   1   1   1 Endonuclease/Exonuclease/phosphatase family
+PPC                  PF04151.14 gi|152930382|gb|CP000727.1|_1547 -            2.6e-11   38.4  23.8   1.5e-07   26.3   0.7   5.4   6   0   0   6   6   6   3 Bacterial pre-peptidase C-terminal domain
+Pyr_redox_dim        PF02852.21 gi|152930382|gb|CP000727.1|_1561 -            4.8e-41  133.3   1.3   7.9e-41  132.6   0.3   1.9   2   0   0   2   2   2   1 Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1563 -            2.9e-36  118.8   1.0   1.1e-35  117.0   0.1   2.3   3   0   0   3   3   3   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1563 -              5e-05   16.5   0.0   0.00012   15.2   0.0   1.6   1   0   0   1   1   1   1 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1563 -              0.013    9.4   4.4     0.016    9.1   1.2   2.6   2   1   0   2   2   2   0 50S ribosome-binding GTPase
+Amino_oxidase        PF01593.23 gi|152930382|gb|CP000727.1|_1573 -            4.5e-06   20.0   0.2   2.6e-05   17.5   0.0   2.0   2   0   0   2   2   2   1 Flavin containing amine oxidoreductase
+Big_2                PF02368.17 gi|152930382|gb|CP000727.1|_1576 -            9.1e-20   64.2   3.7   2.1e-19   63.1   3.7   1.6   1   0   0   1   1   1   1 Bacterial Ig-like domain (group 2)
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1602 -            1.8e-62  203.7   2.0   1.2e-31  103.8   0.1   2.3   2   0   0   2   2   2   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1602 -            6.9e-05   16.8   3.9     0.005   10.8   0.0   3.1   2   1   0   2   2   2   2 50S ribosome-binding GTPase
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_1602 -             0.0014   11.8   0.8     0.031    7.4   0.1   2.2   2   0   0   2   2   2   1 FtsK/SpoIIIE family
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1602 -             0.0017   11.5   0.1     0.041    6.9   0.0   2.3   2   0   0   2   2   2   1 Zeta toxin
+NLPC_P60             PF00877.18 gi|152930382|gb|CP000727.1|_1613 -             0.0016   12.3   0.1    0.0028   11.5   0.1   1.7   1   1   0   1   1   1   1 NlpC/P60 family
+CAP                  PF00188.25 gi|152930382|gb|CP000727.1|_1616 -            8.5e-17   56.0   0.0   1.1e-16   55.7   0.0   1.1   1   0   0   1   1   1   1 Cysteine-rich secretory protein family
+LysM                 PF01476.19 gi|152930382|gb|CP000727.1|_1616 -            6.7e-15   48.8   1.9   4.9e-14   46.0   0.3   2.5   3   0   0   3   3   3   1 LysM domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1620 -              2e-37  122.6   0.1     1e-23   78.2   0.0   2.8   3   0   0   3   3   3   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1620 -            0.00054   13.9   0.2    0.0022   12.0   0.2   2.2   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Phage_integrase      PF00589.21 gi|152930382|gb|CP000727.1|_1637 -            3.9e-43  141.0   0.1   5.4e-43  140.6   0.1   1.2   1   0   0   1   1   1   1 Phage integrase family
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1653 -              0.002   11.2   2.1     0.047    6.8   0.1   2.8   3   0   0   3   3   3   2 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1653 -             0.0051   11.2   7.3     0.016    9.6   7.3   1.9   1   1   0   1   1   1   1 ABC transporter
+Amino_oxidase        PF01593.23 gi|152930382|gb|CP000727.1|_1655 -            5.6e-05   16.4   0.0    0.0011   12.0   0.0   2.6   2   1   0   3   3   3   1 Flavin containing amine oxidoreductase
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_1658 -            1.9e-11   37.3   0.2   8.8e-11   35.3   0.1   2.2   1   1   1   2   2   2   1 S4 domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1691 -            1.9e-52  171.3   0.3     1e-28   94.4   0.1   3.0   2   0   0   2   2   2   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1691 -            4.2e-07   23.9   3.6    0.0025   11.7   0.1   3.6   4   1   0   4   4   4   2 50S ribosome-binding GTPase
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_1691 -            6.1e-05   16.3   2.6     0.032    7.4   0.0   3.1   3   0   0   3   3   3   2 FtsK/SpoIIIE family
+Septin               PF00735.17 gi|152930382|gb|CP000727.1|_1691 -            9.6e-05   15.5   0.2     0.014    8.4   0.1   2.5   2   0   0   2   2   2   2 Septin
+TNFR_c6              PF00020.17 gi|152930382|gb|CP000727.1|_1693 -                2.2    2.7  18.7      0.15    6.4   0.2   3.7   3   0   0   3   3   3   0 TNFR/NGFR cysteine-rich region
+Exo_endo_phos        PF03372.22 gi|152930382|gb|CP000727.1|_1706 -              1e-05   19.1   0.0   1.4e-05   18.6   0.0   1.2   1   0   0   1   1   1   1 Endonuclease/Exonuclease/phosphatase family
+Phage_integrase      PF00589.21 gi|152930382|gb|CP000727.1|_1710 -            3.5e-43  141.2   0.0   5.2e-43  140.6   0.0   1.3   1   0   0   1   1   1   1 Phage integrase family
+NLPC_P60             PF00877.18 gi|152930382|gb|CP000727.1|_1715 -            3.8e-31  101.1   0.0   6.3e-31  100.4   0.0   1.3   1   0   0   1   1   1   1 NlpC/P60 family
+Phage_integrase      PF00589.21 gi|152930382|gb|CP000727.1|_1717 -            8.6e-17   55.3   0.1   1.5e-16   54.5   0.1   1.4   1   0   0   1   1   1   1 Phage integrase family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1723 -            2.5e-05   18.6   8.9   0.00021   15.7   3.1   3.6   2   2   0   2   2   2   2 ABC transporter
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_1726 -            2.4e-20   67.2   0.0   2.9e-20   66.9   0.0   1.1   1   0   0   1   1   1   1 FtsJ-like methyltransferase
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_1726 -            1.5e-08   28.1   0.0   2.7e-08   27.3   0.0   1.5   1   0   0   1   1   1   1 S4 domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1755 -            1.4e-05   19.5   0.2   4.3e-05   17.9   0.1   2.0   2   0   0   2   2   2   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1755 -            0.00023   14.3   0.0   0.00042   13.5   0.0   1.4   1   0   0   1   1   1   1 Zeta toxin
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_1755 -            0.00035   13.8   0.0   0.00063   12.9   0.0   1.3   1   0   0   1   1   1   1 FtsK/SpoIIIE family
+Propep_M14           PF02244.15 gi|152930382|gb|CP000727.1|_1768 -             0.0054   11.0   2.8     0.009   10.3   0.3   2.6   2   0   0   2   2   2   1 Carboxypeptidase activation peptide
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1775 -              4e-34  111.9   0.0   5.5e-34  111.5   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1775 -              0.002   12.1   0.7    0.0098    9.8   0.7   2.2   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1776 -              1e-61  202.8  16.6   1.5e-61  202.2  16.6   1.3   1   0   0   1   1   1   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1776 -            5.5e-35  114.7   0.9   1.1e-34  113.7   0.0   2.0   3   0   0   3   3   3   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1776 -            0.00074   13.5   0.5    0.0038   11.2   0.1   2.5   1   1   1   2   2   2   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1777 -            1.2e-33  110.3   0.1   1.2e-33  110.3   0.1   2.6   3   1   0   3   3   3   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1777 -            7.4e-33  108.1  19.2   1.3e-32  107.3  19.2   1.3   1   0   0   1   1   1   1 ABC transporter transmembrane region
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1777 -             0.0011   13.0   0.2    0.0059   10.6   0.0   2.4   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1789 -            1.2e-29   97.4   0.0   1.7e-29   96.9   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1789 -             0.0024   11.8   2.9      0.02    8.9   2.9   2.2   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1795 -              6e-33  108.1   0.1   8.2e-33  107.7   0.1   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1798 -            7.6e-50  163.8  15.6   1.2e-49  163.2  15.6   1.3   1   0   0   1   1   1   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1798 -            4.3e-35  115.0   0.1   9.7e-35  113.9   0.1   1.6   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1798 -            1.9e-05   18.6   0.7   8.6e-05   16.5   0.7   2.3   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1798 -             0.0017   11.5   0.0     0.004   10.2   0.0   1.6   1   0   0   1   1   1   1 Zeta toxin
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_1799 -            1.9e-40  133.0  18.1   2.9e-40  132.4  18.1   1.2   1   0   0   1   1   1   1 ABC transporter transmembrane region
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1799 -            1.1e-33  110.5   0.0   1.9e-33  109.7   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1799 -            0.00023   15.1   0.2   0.00076   13.4   0.0   2.0   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1799 -            0.00044   13.4   0.0    0.0012   12.0   0.0   1.7   1   0   0   1   1   1   1 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1816 -            6.5e-65  211.6   0.9   1.9e-34  113.0   0.0   2.5   2   0   0   2   2   2   2 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1816 -            4.3e-07   23.2   0.0   0.00039   13.5   0.0   2.2   2   0   0   2   2   2   2 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1816 -            0.00036   14.5   6.4     0.015    9.2   0.3   3.3   3   1   0   4   4   4   2 50S ribosome-binding GTPase
+LXG                  PF04740.11 gi|152930382|gb|CP000727.1|_1843 -               0.28    4.7  31.6   0.00068   13.2   5.6   4.3   3   1   1   4   4   4   0 LXG domain of WXG superfamily
+CAP                  PF00188.25 gi|152930382|gb|CP000727.1|_1853 -            2.9e-26   86.6   2.7   8.8e-26   85.1   0.0   2.2   2   0   0   2   2   2   1 Cysteine-rich secretory protein family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1857 -            3.9e-38  124.9   0.1   5.5e-38  124.4   0.1   1.2   1   0   0   1   1   1   1 ABC transporter
+Septin               PF00735.17 gi|152930382|gb|CP000727.1|_1857 -            0.00053   13.1   0.0   0.00092   12.3   0.0   1.3   1   1   0   1   1   1   1 Septin
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_1857 -            0.00079   12.6   0.1    0.0017   11.5   0.1   1.5   1   0   0   1   1   1   1 FtsK/SpoIIIE family
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1857 -            0.00087   13.2   0.0    0.0019   12.1   0.0   1.5   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+VWA                  PF00092.27 gi|152930382|gb|CP000727.1|_1879 -            1.4e-11   38.7   5.3     3e-11   37.7   3.4   2.4   2   0   0   2   2   2   1 von Willebrand factor type A domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1899 -            1.2e-26   87.7   0.0   5.9e-26   85.5   0.0   1.8   2   0   0   2   2   2   1 ABC transporter
+ANT                  PF03374.13 gi|152930382|gb|CP000727.1|_1900 -             0.0012   13.0   0.0      0.13    6.5   0.0   2.1   2   0   0   2   2   2   2 Phage antirepressor protein KilAC domain
+MazE_antitoxin       PF04014.17 gi|152930382|gb|CP000727.1|_1902 -            1.2e-10   35.0   0.1     2e-10   34.2   0.1   1.4   1   0   0   1   1   1   1 Antidote-toxin recognition MazE, bacterial antitoxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1908 -            1.9e-54  177.7   0.0   3.7e-30   99.1   0.0   2.2   2   0   0   2   2   2   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1908 -            8.2e-05   16.5   0.3   0.00092   13.2   0.0   2.7   3   1   0   3   3   3   1 50S ribosome-binding GTPase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1908 -             0.0016   11.5   0.0      0.11    5.6   0.0   2.3   2   0   0   2   2   2   2 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1919 -            0.00059   14.2   1.1    0.0013   13.1   0.3   2.2   2   1   0   2   2   2   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1919 -             0.0013   12.7   0.0    0.0056   10.6   0.0   2.2   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1932 -            1.1e-08   29.0   0.0   2.1e-08   28.1   0.0   1.5   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1943 -            1.2e-06   22.4   0.1     4e-05   17.5   0.1   2.1   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Septin               PF00735.17 gi|152930382|gb|CP000727.1|_1943 -            0.00014   15.0   0.0    0.0009   12.3   0.0   1.9   2   0   0   2   2   2   1 Septin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1943 -            0.00031   15.1   0.0   0.00031   15.1   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1966 -            1.2e-37  123.4   0.1   1.9e-37  122.7   0.1   1.3   1   0   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_1966 -            0.00017   14.7   0.0   0.00033   13.8   0.0   1.4   1   0   0   1   1   1   1 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1966 -             0.0015   12.5   0.2    0.0031   11.5   0.2   1.9   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_1975 -            4.6e-36  118.2   0.1   6.3e-36  117.7   0.1   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_1975 -            4.5e-05   17.4   0.8   0.00015   15.7   0.7   2.0   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2028 -            0.00038   13.6   0.5   0.00081   12.5   0.1   1.7   2   0   0   2   2   2   1 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2028 -            0.00091   13.6   0.1    0.0034   11.7   0.0   2.0   2   0   0   2   2   2   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2044 -            9.1e-34  110.8   0.1   1.3e-33  110.3   0.1   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2057 -            6.7e-13   43.2   0.1   7.4e-13   43.0   0.1   1.1   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2057 -             0.0013   12.7   0.4    0.0018   12.2   0.4   1.3   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2085 -            1.4e-36  119.8   0.0   2.9e-36  118.9   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_2085 -            1.3e-12   41.7  17.8   2.3e-12   40.9  17.8   1.5   1   0   0   1   1   1   1 ABC transporter transmembrane region
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2085 -            0.00069   13.6   0.8    0.0087   10.0   0.0   2.7   3   0   0   3   3   3   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2086 -            4.9e-33  108.4   0.0   8.9e-33  107.6   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+ABC_membrane         PF00664.22 gi|152930382|gb|CP000727.1|_2086 -            4.3e-30   99.1  12.6   5.5e-30   98.7  12.6   1.1   1   0   0   1   1   1   1 ABC transporter transmembrane region
+Peptidase_C10        PF01640.16 gi|152930382|gb|CP000727.1|_2087 -            0.00083   13.5   0.6    0.0015   12.7   0.6   1.4   1   0   0   1   1   1   1 Peptidase C10 family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2090 -              1e-32  107.3   0.0   4.7e-32  105.2   0.0   1.8   2   0   0   2   2   2   1 ABC transporter
+NTP_transf_2         PF01909.22 gi|152930382|gb|CP000727.1|_2111 -            4.2e-05   17.7   0.1   4.8e-05   17.5   0.1   1.4   1   1   0   1   1   1   1 Nucleotidyltransferase domain
+Lyase_1              PF00206.19 gi|152930382|gb|CP000727.1|_2121 -            1.4e-24   80.9   0.5   4.1e-24   79.3   0.5   1.8   1   1   0   1   1   1   1 Lyase
+Gastrin              PF00918.16 gi|152930382|gb|CP000727.1|_2129 -             0.0088   10.9  10.9    0.0017   13.2   6.1   2.1   1   1   1   2   2   2   1 Gastrin/cholecystokinin family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2130 -            0.00037   14.9   0.1    0.0012   13.2   0.1   2.0   1   1   0   1   1   1   1 ABC transporter
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_2133 -            3.4e-65  213.6   0.1   4.1e-47  154.3   0.0   2.8   2   1   1   3   3   3   2 FtsK/SpoIIIE family
+Peptidase_S49        PF01343.17 gi|152930382|gb|CP000727.1|_2134 -            0.00024   14.9   0.3    0.0054   10.5   0.0   2.3   1   1   1   2   2   2   2 Peptidase family S49
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2144 -            3.2e-13   43.6   0.1   3.2e-13   43.6   0.1   2.5   2   1   0   2   2   2   1 50S ribosome-binding GTPase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2168 -            4.5e-19   62.5   0.3   9.8e-18   58.2   0.0   2.5   2   1   1   3   3   3   1 50S ribosome-binding GTPase
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_2168 -            0.00098   12.3   0.4    0.0027   10.9   0.1   1.9   2   1   0   2   2   2   1 AIG1 family
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2175 -            1.8e-05   17.9   0.1   5.9e-05   16.2   0.1   1.9   1   1   0   1   1   1   1 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2175 -            0.00012   16.0   5.7   0.00027   14.8   1.7   3.1   3   1   0   3   3   3   1 50S ribosome-binding GTPase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2177 -            1.9e-05   17.9   0.1   3.2e-05   17.1   0.1   1.4   1   0   0   1   1   1   1 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2177 -              6e-05   17.4   0.1   0.00011   16.6   0.1   1.5   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2178 -             0.0018   12.6   0.0    0.0018   12.6   0.0   7.3   3   2   0   3   3   3   1 ABC transporter
+CcdB                 PF01845.16 gi|152930382|gb|CP000727.1|_2195 -             0.0037   11.4   2.1    0.0074   10.4   0.5   2.3   2   0   0   2   2   2   1 CcdB protein
+RnaseA               PF00074.19 gi|152930382|gb|CP000727.1|_2195 -              0.013    9.9   6.7    0.0069   10.8   1.2   2.4   2   0   0   2   2   2   0 Pancreatic ribonuclease
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2228 -            2.9e-09   30.9   0.0   7.2e-09   29.6   0.0   1.7   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2228 -            8.2e-08   26.7   0.0   1.5e-07   25.9   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_2228 -            3.9e-05   16.9   0.3   8.9e-05   15.7   0.0   1.7   2   0   0   2   2   2   1 AIG1 family
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_2232 -            1.9e-09   31.7   0.0   3.2e-09   31.0   0.0   1.3   1   0   0   1   1   1   1 FtsJ-like methyltransferase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2239 -            0.00016   16.0   1.1   0.00023   15.5   1.1   1.7   1   1   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2239 -            0.00062   13.7   0.1    0.0011   12.8   0.1   1.8   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2243 -              6e-07   23.4   0.3   8.6e-06   19.7   0.1   2.7   2   1   0   2   2   2   1 50S ribosome-binding GTPase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2246 -            4.4e-60  194.6   1.4     1e-30  100.0   0.1   2.3   2   0   0   2   2   2   2 50S ribosome-binding GTPase
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_2246 -            1.3e-11   38.0   0.6   2.9e-07   23.8   0.1   2.4   2   0   0   2   2   2   2 AIG1 family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2246 -            8.2e-07   23.5   1.2    0.0018   12.6   0.1   2.8   1   1   1   2   2   2   2 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2249 -            2.1e-34  112.8   0.0     3e-34  112.3   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2265 -              7e-06   20.4   0.0   1.3e-05   19.6   0.0   1.6   1   0   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2265 -            2.3e-05   17.6   0.0   3.8e-05   16.8   0.0   1.4   1   0   0   1   1   1   1 Zeta toxin
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_2265 -              3e-05   17.3   0.3   8.2e-05   15.8   0.1   1.8   2   0   0   2   2   2   1 FtsK/SpoIIIE family
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2265 -             0.0012   12.8   0.7    0.0029   11.5   0.7   2.0   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Amidase_2            PF01510.24 gi|152930382|gb|CP000727.1|_2277 -            5.2e-23   75.7   2.1   8.3e-23   75.1   2.1   1.3   1   0   0   1   1   1   1 N-acetylmuramoyl-L-alanine amidase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2291 -            6.4e-07   22.6   0.0   1.2e-06   21.8   0.0   1.5   1   0   0   1   1   1   1 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2291 -            5.3e-05   17.6   0.1   6.2e-05   17.4   0.1   1.4   1   1   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2295 -              3e-10   34.1   0.6   7.2e-10   32.8   0.6   1.7   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+Septin               PF00735.17 gi|152930382|gb|CP000727.1|_2295 -            8.7e-07   22.2   0.1   1.7e-06   21.2   0.1   1.4   1   0   0   1   1   1   1 Septin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2307 -             0.0013   13.1   0.0    0.0027   12.1   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2307 -             0.0016   12.4   0.1    0.0055   10.7   0.1   1.9   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Zn_dep_PLPC          PF00882.17 gi|152930382|gb|CP000727.1|_2374 -            1.8e-17   57.7   3.5   2.3e-17   57.4   3.5   1.2   1   0   0   1   1   1   1 Zinc dependent phospholipase C
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2387 -            4.6e-07   23.8   0.3   4.6e-07   23.8   0.3   2.2   2   2   0   2   2   2   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2387 -            4.3e-05   17.9   1.0   4.3e-05   17.9   1.0   2.3   2   2   0   2   2   2   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2403 -            0.00031   15.1   0.1   0.00063   14.1   0.1   1.5   1   0   0   1   1   1   1 ABC transporter
+Lyase_1              PF00206.19 gi|152930382|gb|CP000727.1|_2412 -            2.8e-75  247.4   0.0   3.8e-75  246.9   0.0   1.2   1   0   0   1   1   1   1 Lyase
+Gp49                 PF05973.13 gi|152930382|gb|CP000727.1|_2415 -             0.0012   12.8   0.3    0.0031   11.5   0.1   1.7   2   0   0   2   2   2   1 Phage derived protein Gp49-like (DUF891)
+PLDc                 PF00614.21 gi|152930382|gb|CP000727.1|_2416 -            8.7e-16   51.4   2.1   1.4e-08   28.5   0.4   2.5   2   0   0   2   2   2   2 Phospholipase D Active site motif
+Amino_oxidase        PF01593.23 gi|152930382|gb|CP000727.1|_2427 -            2.1e-05   17.7   0.0     3e-05   17.2   0.0   1.3   1   0   0   1   1   1   1 Flavin containing amine oxidoreductase
+LXG                  PF04740.11 gi|152930382|gb|CP000727.1|_2436 -             0.0098    9.4  11.4    0.0016   12.0   2.0   2.5   2   1   0   2   2   2   1 LXG domain of WXG superfamily
+Bacillus_HBL         PF05791.10 gi|152930382|gb|CP000727.1|_2436 -               0.03    8.0  13.7     0.012    9.3   2.6   2.4   1   1   1   2   2   2   0 Bacillus haemolytic enterotoxin (HBL)
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_2467 -            0.00042   13.9   0.8    0.0025   11.4   0.1   2.4   1   1   1   2   2   2   1 S4 domain
+He_PIG               PF05345.11 gi|152930382|gb|CP000727.1|_2493 -            0.00051   14.1   0.1   0.00099   13.2   0.1   1.5   1   0   0   1   1   1   1 Putative Ig domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2496 -            0.00038   14.8   2.2     0.014    9.8   0.1   3.3   3   0   0   3   3   3   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2533 -            3.3e-31  102.5   0.3   2.7e-29   96.3   0.0   2.2   2   0   0   2   2   2   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2533 -            0.00049   14.1   0.9     0.011    9.7   0.0   2.3   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+3D                   PF06725.10 gi|152930382|gb|CP000727.1|_2553 -            5.4e-26   84.5   0.1     1e-25   83.6   0.1   1.5   1   0   0   1   1   1   1 3D domain
+Amino_oxidase        PF01593.23 gi|152930382|gb|CP000727.1|_2565 -            5.3e-08   26.3   0.0   9.8e-08   25.4   0.0   1.5   1   0   0   1   1   1   1 Flavin containing amine oxidoreductase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2569 -            2.7e-26   86.6   0.0   2.8e-16   54.1   0.0   3.6   3   1   0   3   3   3   3 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2569 -            0.00025   14.2   0.0     0.032    7.3   0.0   2.2   2   0   0   2   2   2   2 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2569 -             0.0008   13.3   0.2     0.027    8.4   0.1   2.8   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+Glyco_hydro_18       PF00704.27 gi|152930382|gb|CP000727.1|_2577 -            1.5e-89  294.6  11.5   2.6e-89  293.8  11.5   1.4   1   0   0   1   1   1   1 Glycosyl hydrolases family 18
+Peptidase_M23        PF01551.21 gi|152930382|gb|CP000727.1|_2582 -            0.00018   15.5   0.1    0.0032   11.6   0.0   2.4   1   1   1   2   2   2   1 Peptidase family M23
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2600 -            2.8e-44  144.8   3.8   1.4e-24   81.0   0.0   3.6   3   2   0   3   3   3   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2600 -            2.1e-05   18.5   0.0     0.039    7.9   0.0   2.9   2   1   0   2   2   2   2 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2601 -               0.19    6.1  20.6    0.0023   12.3   2.9   3.6   3   2   0   3   3   3   0 ABC transporter
+Amidase_2            PF01510.24 gi|152930382|gb|CP000727.1|_2611 -            3.8e-24   79.4   0.4   5.9e-24   78.8   0.4   1.3   1   0   0   1   1   1   1 N-acetylmuramoyl-L-alanine amidase
+PG_binding_1         PF01471.17 gi|152930382|gb|CP000727.1|_2611 -            3.8e-13   43.3   0.0   7.4e-13   42.4   0.0   1.5   1   0   0   1   1   1   1 Putative peptidoglycan binding domain
+Phage_integrase      PF00589.21 gi|152930382|gb|CP000727.1|_2622 -            2.7e-31  102.5   0.3   3.9e-31  102.0   0.3   1.2   1   0   0   1   1   1   1 Phage integrase family
+Peptidase_M23        PF01551.21 gi|152930382|gb|CP000727.1|_2653 -            0.00079   13.5   0.0    0.0016   12.5   0.0   1.6   1   0   0   1   1   1   1 Peptidase family M23
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2655 -             0.0017   12.7   2.1     0.038    8.3   2.0   2.4   1   1   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2657 -            1.8e-29   96.8   0.0   3.1e-29   96.1   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2675 -            1.1e-27   91.1   0.0   3.1e-27   89.6   0.0   1.7   2   0   0   2   2   2   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2701 -            1.1e-26   87.0   0.0   1.9e-26   86.2   0.0   1.4   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_2701 -            2.5e-07   24.0   0.0   4.2e-07   23.3   0.0   1.3   1   0   0   1   1   1   1 AIG1 family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2701 -            7.6e-05   17.1   0.1   0.00094   13.5   0.0   2.3   2   0   0   2   2   2   1 ABC transporter
+FtsJ                 PF01728.18 gi|152930382|gb|CP000727.1|_2713 -            8.8e-06   19.8   0.0   1.8e-05   18.7   0.0   1.6   1   1   0   1   1   1   1 FtsJ-like methyltransferase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2719 -            3.5e-07   24.2   0.0   8.9e-07   22.9   0.0   1.8   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2729 -            1.9e-08   28.2   1.3   8.1e-08   26.2   0.1   2.6   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_2735 -            7.2e-05   16.3   0.1   0.00014   15.4   0.1   1.5   1   0   0   1   1   1   1 S4 domain
+PA14                 PF07691.11 gi|152930382|gb|CP000727.1|_2735 -            0.00036   14.2   0.2    0.0039   10.8   0.0   2.2   2   0   0   2   2   2   1 PA14 domain
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2741 -            2.7e-26   85.8   0.0   6.1e-26   84.6   0.0   1.6   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+Peptidase_M23        PF01551.21 gi|152930382|gb|CP000727.1|_2749 -            4.4e-32  104.1   0.6   8.1e-32  103.2   0.6   1.4   1   0   0   1   1   1   1 Peptidase family M23
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2752 -            0.00017   14.7   0.4    0.0004   13.5   0.4   1.6   1   0   0   1   1   1   1 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2766 -             0.0003   15.1   4.1   0.00055   14.3   3.9   1.5   1   1   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2766 -            0.00095   12.3   0.0    0.0021   11.2   0.0   1.5   1   0   0   1   1   1   1 Zeta toxin
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_2794 -             0.0009   12.4   0.2    0.0015   11.7   0.1   1.4   1   1   0   1   1   1   1 FtsK/SpoIIIE family
+SLAC1                PF03595.16 gi|152930382|gb|CP000727.1|_2810 -            7.7e-05   15.9   0.9     9e-05   15.6   0.9   1.1   1   0   0   1   1   1   1 Voltage-dependent anion channel
+FSAP_sig_propep      PF03032.14 gi|152930382|gb|CP000727.1|_2824 -               0.75    3.8  11.6       0.2    5.6   0.0   2.3   2   0   0   2   2   2   0 Frog skin active peptide family signal and propeptide
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2828 -            0.00096   13.5   0.0    0.0017   12.7   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+NTP_transf_2         PF01909.22 gi|152930382|gb|CP000727.1|_2835 -            8.2e-13   42.4   0.3   2.9e-12   40.6   0.3   1.9   1   0   0   1   1   1   1 Nucleotidyltransferase domain
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2838 -            1.2e-22   74.1   2.9   3.7e-21   69.2   0.5   2.6   2   0   0   2   2   2   2 50S ribosome-binding GTPase
+Big_2                PF02368.17 gi|152930382|gb|CP000727.1|_2868 -              0.021    8.6  13.9      0.12    6.2   0.2   5.6   5   3   0   5   5   5   0 Bacterial Ig-like domain (group 2)
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2898 -            7.1e-32  104.6   0.0     1e-31  104.1   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2902 -            3.5e-34  112.1   0.0   4.7e-34  111.7   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2903 -            2.5e-31  102.8   0.0   4.6e-31  102.0   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2921 -            2.1e-34  112.8   0.0   3.2e-34  112.2   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2926 -            5.1e-37  121.3   0.0   7.6e-37  120.7   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2926 -            0.00052   14.0   0.5    0.0012   12.8   0.2   1.8   2   1   0   2   2   2   1 50S ribosome-binding GTPase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2926 -            0.00097   12.3   0.0    0.0015   11.6   0.0   1.3   1   0   0   1   1   1   1 Zeta toxin
+PG_binding_1         PF01471.17 gi|152930382|gb|CP000727.1|_2934 -            3.7e-11   37.0   0.0   6.6e-11   36.2   0.0   1.4   1   0   0   1   1   1   1 Putative peptidoglycan binding domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2944 -             0.0015   12.9   0.6    0.0046   11.3   0.1   2.3   2   1   0   2   2   2   1 ABC transporter
+RelE                 PF06296.11 gi|152930382|gb|CP000727.1|_2951 -             0.0031   11.5   3.8    0.0081   10.1   0.6   2.6   2   0   0   2   2   2   1 RelE toxin of RelE / RelB toxin-antitoxin system
+Metallophos          PF00149.27 gi|152930382|gb|CP000727.1|_2964 -            2.2e-09   31.9   1.0   6.7e-05   17.3   0.1   2.2   1   1   1   2   2   2   2 Calcineurin-like phosphoesterase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2982 -            1.9e-25   83.0   0.2     4e-25   82.0   0.1   1.5   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+Septin               PF00735.17 gi|152930382|gb|CP000727.1|_2982 -            0.00011   15.3   4.7    0.0051    9.9   4.7   2.6   1   1   0   1   1   1   1 Septin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2982 -             0.0002   15.7   0.6   0.00037   14.9   0.6   1.8   1   1   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_2983 -            0.00073   12.7   0.0    0.0017   11.5   0.0   1.6   1   0   0   1   1   1   1 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_2983 -             0.0012   12.8   2.7    0.0047   10.9   0.0   3.0   2   2   1   3   3   3   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2983 -             0.0029   12.0   0.0    0.0029   12.0   0.0   3.6   3   1   0   3   3   3   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_2985 -            0.00016   16.0   0.0   0.00037   14.9   0.0   1.7   1   0   0   1   1   1   1 ABC transporter
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_2985 -             0.0016   11.6   0.0    0.0034   10.5   0.0   1.5   1   0   0   1   1   1   1 FtsK/SpoIIIE family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3002 -            1.4e-31  103.7   0.0   2.2e-31  103.0   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+FG-GAP               PF01839.22 gi|152930382|gb|CP000727.1|_3008 -             0.0019   12.2   0.5    0.0061   10.6   0.0   1.9   2   0   0   2   2   2   1 FG-GAP repeat
+Metallophos          PF00149.27 gi|152930382|gb|CP000727.1|_3011 -            9.7e-10   33.1   0.9   3.3e-07   24.8   0.3   2.3   1   1   1   2   2   2   2 Calcineurin-like phosphoesterase
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_3024 -            2.6e-14   46.6   0.1   6.3e-14   45.3   0.1   1.7   1   0   0   1   1   1   1 S4 domain
+DUF188               PF02639.13 gi|152930382|gb|CP000727.1|_3028 -            4.4e-40  130.2   0.8   4.9e-40  130.1   0.8   1.0   1   0   0   1   1   1   1 Uncharacterized BCR, YaiI/YqxD family COG1671
+Amino_oxidase        PF01593.23 gi|152930382|gb|CP000727.1|_3055 -            2.6e-05   17.5   0.0   2.6e-05   17.5   0.0   1.6   2   0   0   2   2   2   1 Flavin containing amine oxidoreductase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3058 -            8.5e-49  159.4  13.2   3.3e-28   92.8   0.1   4.2   4   1   0   4   4   4   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3058 -            5.8e-06   20.2   3.2    0.0012   12.8   0.1   3.2   3   0   0   3   3   3   2 50S ribosome-binding GTPase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_3058 -            0.00045   13.4   0.4     0.032    7.3   0.0   2.9   3   0   0   3   3   3   1 Zeta toxin
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_3074 -            1.3e-08   28.3   0.0   2.9e-08   27.2   0.0   1.5   1   0   0   1   1   1   1 S4 domain
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_3075 -            0.00012   15.3   0.0   0.00017   14.7   0.0   1.2   1   0   0   1   1   1   1 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3080 -            3.7e-08   27.3   0.1   1.5e-07   25.4   0.0   2.0   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3090 -            3.7e-05   18.1   7.3   0.00032   15.1   0.4   2.8   2   2   0   2   2   2   2 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_3090 -            0.00022   14.4   0.0     0.075    6.1   0.0   2.3   2   0   0   2   2   2   2 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3101 -              3e-35  115.6   0.1   7.1e-35  114.4   0.0   1.6   2   0   0   2   2   2   1 ABC transporter
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3108 -            0.00018   15.9   0.0    0.0081   10.5   0.0   3.1   3   0   0   3   3   3   1 ABC transporter
+Phage_integrase      PF00589.21 gi|152930382|gb|CP000727.1|_3112 -              9e-35  113.8   1.0   1.1e-34  113.6   1.0   1.0   1   0   0   1   1   1   1 Phage integrase family
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_3125 -             0.0013   11.9   0.3     0.095    5.8   0.0   2.6   3   0   0   3   3   3   2 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3134 -            1.2e-22   74.7   3.0   5.9e-07   23.9   0.0   4.6   4   1   0   4   4   4   4 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3134 -            8.5e-05   16.5   0.8    0.0076   10.2   0.2   3.3   3   0   0   3   3   3   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3139 -            3.4e-39  128.3   0.0   4.6e-39  127.9   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_3139 -              8e-07   22.3   0.0   1.6e-06   21.3   0.0   1.5   2   0   0   2   2   2   1 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3139 -            9.2e-05   16.4   0.1   0.00015   15.7   0.1   1.8   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+PemK_toxin           PF02452.16 gi|152930382|gb|CP000727.1|_3144 -            1.3e-36  119.2   0.2   1.4e-36  119.1   0.2   1.0   1   0   0   1   1   1   1 PemK-like, MazF-like toxin of type II toxin-antitoxin system
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_3154 -            6.6e-23   74.1   0.0   1.7e-22   72.8   0.0   1.8   1   0   0   1   1   1   1 S4 domain
+Pertussis_S2S3       PF02918.14 gi|152930382|gb|CP000727.1|_3162 -             0.0012   12.6   0.0    0.0023   11.7   0.0   1.5   1   0   0   1   1   1   1 Pertussis toxin, subunit 2 and 3, C-terminal domain
+Zot                  PF05707.11 gi|152930382|gb|CP000727.1|_3174 -             0.0004   13.9   0.0   0.00063   13.2   0.0   1.3   1   0   0   1   1   1   1 Zonular occludens toxin (Zot)
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3198 -            7.8e-35  114.2   0.0   1.1e-34  113.7   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3198 -            0.00017   15.6   0.7   0.00061   13.7   0.3   2.0   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3199 -            2.1e-32  106.3   0.0   3.3e-32  105.7   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_3199 -            0.00026   14.2   0.2    0.0066    9.6   0.0   2.5   2   0   0   2   2   2   1 FtsK/SpoIIIE family
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_3202 -            1.5e-23   76.2   0.1   2.6e-23   75.3   0.1   1.5   1   0   0   1   1   1   1 S4 domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3209 -             0.0013   13.1   0.0    0.0019   12.6   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3232 -            2.3e-07   24.8   0.1   4.2e-07   23.9   0.1   1.4   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3233 -            1.1e-05   19.3   0.1   2.4e-05   18.3   0.1   1.6   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_3233 -            0.00024   14.3   0.1   0.00046   13.4   0.1   1.4   1   0   0   1   1   1   1 AIG1 family
+Peptidase_M23        PF01551.21 gi|152930382|gb|CP000727.1|_3237 -             0.0001   16.3   0.3   0.00049   14.2   0.0   2.1   2   0   0   2   2   2   1 Peptidase family M23
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3246 -            2.3e-07   24.8   0.1   4.2e-07   23.9   0.1   1.4   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+PIN                  PF01850.20 gi|152930382|gb|CP000727.1|_3256 -            7.4e-09   30.0   0.1   2.7e-08   28.2   0.1   2.0   2   1   0   2   2   2   1 PIN domain
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3260 -            5.1e-06   20.9   0.2   1.1e-05   19.9   0.2   1.5   1   0   0   1   1   1   1 ABC transporter
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_3260 -             0.0017   11.4   0.0     0.003   10.6   0.0   1.3   1   0   0   1   1   1   1 Zeta toxin
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_3261 -            6.3e-07   22.7   0.2   0.00086   12.4   0.0   3.9   4   0   0   4   4   4   2 Zeta toxin
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3261 -             0.0002   15.7   3.2     0.011   10.1   0.1   3.5   3   2   0   3   3   3   2 ABC transporter
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3266 -            6.5e-09   29.8   0.2   1.7e-08   28.4   0.2   1.8   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3266 -            2.5e-06   21.9   1.1   8.1e-06   20.2   0.2   2.2   2   1   0   3   3   3   1 ABC transporter
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_3266 -             0.0001   15.5   0.8    0.0032   10.6   0.1   2.4   2   0   0   2   2   2   2 AIG1 family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3276 -            0.00091   13.6   0.1    0.0025   12.2   0.1   1.7   1   0   0   1   1   1   1 ABC transporter
+S4                   PF01479.24 gi|152930382|gb|CP000727.1|_3284 -            1.4e-12   41.0   0.1   1.8e-12   40.7   0.1   1.2   1   0   0   1   1   1   1 S4 domain
+MazE_antitoxin       PF04014.17 gi|152930382|gb|CP000727.1|_3288 -            8.4e-12   38.7   3.1   1.3e-11   38.1   1.5   2.1   2   0   0   2   2   2   1 Antidote-toxin recognition MazE, bacterial antitoxin
+Trypsin              PF00089.25 gi|152930382|gb|CP000727.1|_3292 -            8.2e-16   52.3   0.2   2.2e-15   50.9   0.2   1.7   1   1   0   1   1   1   1 Trypsin
+HTH_Tnp_1            PF01527.19 gi|152930382|gb|CP000727.1|_3324 -             0.0014   12.8   0.0    0.0026   11.9   0.0   1.4   1   0   0   1   1   1   1 Transposase
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3333 -            4.5e-21   68.9   1.2   1.2e-20   67.6   0.8   1.9   2   0   0   2   2   2   1 50S ribosome-binding GTPase
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_3333 -            0.00013   15.2   1.9   0.00024   14.3   1.9   1.5   1   1   0   1   1   1   1 AIG1 family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3333 -            0.00028   15.2   0.5    0.0006   14.2   0.4   1.6   1   1   0   1   1   1   1 ABC transporter
+Peptidase_S8         PF00082.21 gi|152930382|gb|CP000727.1|_3341 -            4.4e-23   75.7   0.0   8.3e-23   74.8   0.0   1.3   1   1   0   1   1   1   1 Subtilase family
+Peptidase_M23        PF01551.21 gi|152930382|gb|CP000727.1|_3357 -            1.5e-38  124.8   0.2   2.9e-38  123.9   0.2   1.5   1   0   0   1   1   1   1 Peptidase family M23
+Amino_oxidase        PF01593.23 gi|152930382|gb|CP000727.1|_3362 -             0.0015   11.6   0.0      0.14    5.1   0.0   2.2   1   1   0   2   2   2   2 Flavin containing amine oxidoreductase
+Zeta_toxin           PF06414.11 gi|152930382|gb|CP000727.1|_3370 -            0.00073   12.7   0.0    0.0017   11.4   0.0   1.6   1   0   0   1   1   1   1 Zeta toxin
+MMR_HSR1             PF01926.22 gi|152930382|gb|CP000727.1|_3392 -            1.1e-30   99.9   1.4     3e-30   98.5   1.4   1.8   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+AIG1                 PF04548.15 gi|152930382|gb|CP000727.1|_3392 -            7.8e-09   29.0   1.1   7.8e-09   29.0   1.1   1.7   2   0   0   2   2   2   1 AIG1 family
+FtsK_SpoIIIE         PF01580.17 gi|152930382|gb|CP000727.1|_3392 -             0.0013   11.9   1.2    0.0034   10.5   0.0   2.1   2   0   0   2   2   2   1 FtsK/SpoIIIE family
+ABC_tran             PF00005.26 gi|152930382|gb|CP000727.1|_3392 -             0.0024   12.3   4.9    0.0053   11.1   4.5   1.8   1   1   0   1   1   1   1 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      protein
+# Target file:     Toxins.hmm
+# Option settings: hmmscan -o human_readable.txt --tblout Clostridium_botulinum_A_Hall_uid19521hmm_out_sequence_hit_table Toxins.hmm protein 
+# Current dir:     /Users/Tyler/Documents/University/Classes/4A/BIOL 469 - Genomics/toxinformatics/toxinformatics/ToxinFinder/Clostridium_botulinum_A_Hall_uid19521
+# Date:            Fri Nov  9 17:23:25 2018
+# [ok]

@@ -1,4 +1,5 @@
 <form method="POST" action="/run_bash">
+    {% csrf_token %}
     <input type="text" name="genome_link">
     <input type="text" name="hmm_file">
 
