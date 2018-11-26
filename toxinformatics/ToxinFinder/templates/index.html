@@ -1,7 +1,7 @@
-<form method="POST" action="/run_bash">
+<form method="POST" action="/run_bash" enctype="multipart/form-data">
     {% csrf_token %}
     <input type="text" name="genome_link">
-    <input type="text" name="hmm_file">
+    <input type="text" name="toxin_file_path">
 
     <button type="submit">Run Search</button>
 </form>
