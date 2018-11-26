@@ -1,2 +1,7 @@
 /toxinformatics/results/
 /toxinformatics/db.sqlite3
+
+# IntelliJ project files
+.idea/
+out
+gen
