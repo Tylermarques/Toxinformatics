@@ -1,19 +1,31 @@
+{% load static %}
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <title>{% block title %} Toxinformatics {% endblock %}</title>
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
     <link href="https://unpkg.com/tabulator-tables@4.1.2/dist/css/tabulator.min.css" rel="stylesheet">
     <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.1.2/dist/js/tabulator.min.js"></script>
-
+    <link href="{% static "css/style.css" %}" rel="stylesheet" type="text/css">
 </head>
+
 <body>
+<p id="page-header">Toxinformatics</p>
 
 <div id="main">
     {% block content %}{% endblock %}
 </div>
+
+<div id="footnote">
+    <p>Tyler Marques, Michelle Tam, Tim Shardlow, and Julian Whiting
+        <br>BIOL 469 - Genomics Final Project
+        <br>University of Waterloo
+        <br>Fall 2018
+    </p>
+</div>
+{#Lots more to come! Very basic interface, but will continually update with features.<br> Email tylermarques at gmail dot com for more information.#}
 </body>
 {% block footer %} {% endblock %}
 </html>

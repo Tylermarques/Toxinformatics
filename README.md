@@ -16,3 +16,7 @@
 - Clean script with removes binaries and other space intensive programs
 - Add loading screen detailing what is happening
 
+
+Thoughts about future expansions
+- Is there a database with how many species make a certain protein, and could you compare found proteins with that to determine uniqueness?
+    - Is this helpful?
