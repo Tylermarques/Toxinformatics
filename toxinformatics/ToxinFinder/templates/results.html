@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}{{ organism_name }} {% endblock %}
+{% block content %}
+<body>
+<div id="table-holder">
+
+</div>
+
+</body>
+{% endblock %}
+{% block footer %}
+<footer>
+    <script>
+        var columns = [
+            {title:"Name", field:"target_name"},
+            {title:"PFam", field:"PFam"},
+            {title:"Full Sequence E-Value", field:"fs_E-value"},
+            {title:"Best Domain E-Value", field:"bd_E-value"},
+            {title:"Target Description", field:"description_of_target"},
+        ];
+        let tabledata = {{ table|safe }};
+        console.log(tabledata);
+        var table = new Tabulator("#table-holder", {
+            height: 1200, // set height of table (in CSS or here), this enables the Virtual DOM and improves render speed dramatically (can be any valid css height value)
+            data: tabledata, //assign data to table
+            layout: "fitColumns", //fit columns to width of table (optional)
+            columns: columns,
+            rowClick: function (e, row) { //trigger an alert message when the row is clicked
+                alert("Row " + row.getData().id + " Clicked!!!!");
+            },
+        });
+    </script>
+</footer>
+{% endblock %}
+</html>

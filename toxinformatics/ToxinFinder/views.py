@@ -7,7 +7,7 @@ CEND = '\033[0m'
 
 
 def index(request):
-    return render(request, 'index.html')
+    return render(request, 'search.html')
 
 
 def run_bash(request):
@@ -19,7 +19,7 @@ def run_bash(request):
         hmm_ouput_link = bash.main(organism_name, genome_link, toxin_file_path)
         table = bash.show_hmm_out(organism_name)
 
-        return HttpResponse(table)
+        return render(request, 'results.html', context={'table': table, 'organism_name': organism_name})
 
 
 

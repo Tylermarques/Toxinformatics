@@ -1,7 +1,11 @@
 /toxinformatics/results/
 /toxinformatics/db.sqlite3
+*.pyc
 
 # IntelliJ project files
 .idea/
 out
 gen
+toxinformatics/ToxinFinder/__pycache__/
+toxinformatics/ToxinFinder/migrations/__pycache__/
+
