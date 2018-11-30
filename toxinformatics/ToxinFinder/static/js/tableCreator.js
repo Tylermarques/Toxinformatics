@@ -21,5 +21,8 @@ var table = new Tabulator("#table-holder", {
     },
 });
 $("#download-csv").click(function () {
-    table.download("csv", "data.csv");
+    table.download("csv", document.title + ".csv");
+});
+$("form").on('submit', function() {
+
 });

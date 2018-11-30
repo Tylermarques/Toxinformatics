@@ -24,32 +24,68 @@ body {
     background-color: transparent;
 }
 
+@media screen and (max-device-width: 1200px) {
+    #page-header {
+        font-size: 48px;
+        text-align: center;
+        margin-top: 2%;
+    }
+
+    #main {
+        align-content: center;
+    }
+
+    #searchdiv {
+        align-content: center;
+        padding-top: 1%;
+        text-align: center;
+        margin: auto;
+        width: 50%;
+    }
+
+    #footnote {
+        align-content: center;
+        padding-top: 1%;
+        text-align: center;
+        margin: auto;
+        width: 50%;
+        font-size: 15px;
+        font-style: italic;
+    }
+}
+
 #page-header {
-    font-size: 32px;
-    text-align: center;
-    margin-top: 2%;
-}
+        font-size: 48px;
+        text-align: center;
+        margin-top: 2%;
+    }
 
-#main {
-    align-content: center;
-}
+    #main {
+        align-content: center;
+    }
 
-#searchblock {
-    align-content: center;
-    padding-top: 1%;
-    text-align: center;
-    margin: auto;
-    width: 50%;
-}
-#footnote {
-    align-content: center;
-    padding-top: 1%;
-    text-align: center;
-    margin: auto;
-    width: 50%;
-    font-size: 9px;
-    font-style: italic;
-}
+    #searchdiv {
+        align-content: center;
+        padding-top: 1%;
+        text-align: center;
+        margin: auto;
+        width: 50%;
+        -webkit-transform: matrix(1.5,0,0,1.5,0,0);
+    }
+
+    #footnote {
+        align-content: center;
+        padding-top: 1%;
+        text-align: center;
+        margin: auto;
+        width: 50%;
+        font-size: 15px;
+        font-style: italic;
+    }
+
 #buttons {
+
+}
+form input {
 
 }

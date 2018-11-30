@@ -1,6 +1,8 @@
 {% extends "base.html" %}
+{% load static %}
 {% block content %}
-    <div id="searchblock">
+    <link href="{% static 'css/spinner.css' %}" type="text/css">
+    <div id="searchdiv">
         <form method="POST" action="/run_bash" enctype="multipart/form-data">
             {% csrf_token %}
             <input placeholder="Link to .fna file" type="text" name="genome_link">
@@ -8,5 +10,10 @@
 
             <button type="submit">Run Search</button>
         </form>
+    </div>
+    <div class="cssload-loader">
+        <div class="cssload-inner cssload-one"></div>
+        <div class="cssload-inner cssload-two"></div>
+        <div class="cssload-inner cssload-three"></div>
     </div>
 {% endblock %}

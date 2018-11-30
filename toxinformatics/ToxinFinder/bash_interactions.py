@@ -35,6 +35,12 @@ def save_toxin_hmm_file(organism_name, f):
     return os.path.abspath(f'"{settings.BASE_DIR}/results/{organism_name}/Toxins.hmm"')
 
 
+def unzip_genome(genome_filepath):
+    print(CRED + f'gunzip "{genome_filepath}"' + CEND)
+    results = subprocess.run(f'gunzip "{genome_filepath}"', shell=True)
+    return results.returncode
+
+
 def download_genome(genome_link, organism_name):
     """
     Given a link to a file, download and save it to .fna file
@@ -45,12 +51,17 @@ def download_genome(genome_link, organism_name):
     Returns:
 
     """
+    if genome_link[-2:] == 'gz':
+        file_name = organism_name + '.fna.gz'
+    else:
+        file_name = organism_name + '.fna'
+
+    path = f'{settings.BASE_DIR}/results/{organism_name}/{file_name}'
     # TODO check that link is to .fna file
     # TODO If link is to FTP directory look for .fna file in directory
-    subprocess.run([f'wget -O "{settings.BASE_DIR}/results/{organism_name}/{organism_name}.fna" '
-                    f'{genome_link}'],
-                   shell=True)
-    return
+
+    subprocess.run(f'wget -O "{path}" {genome_link}', shell=True)
+    return {'path': path, 'gzip': True}
 
 
 def prodigal_proteome_predictions(organism_name):
@@ -156,8 +167,16 @@ def space_delimited_to_csv(organism_name, hmm_output_path):
 
 
 def clean_hmm_output(organism_name, hmm_results_path):
-    """ The hmm_out file is not only space delimited, it has a bunch of extra crap
-    on top and bottom of the file. This function removes the crap so that it can be opened with Pandas."""
+    """
+    The hmm_out file is not only space delimited, it has a bunch of extra crap
+    on top and bottom of the file. This function removes the crap so that it can be opened with Pandas.
+    Args:
+        organism_name ():
+        hmm_results_path ():
+
+    Returns:
+
+    """
     new_file = []
     with open(hmm_results_path) as hmm_file:
         lines = hmm_file.readlines()
@@ -184,15 +203,23 @@ def show_hmm_out(organism_name):
         table (str): HTML with tabular data from hmmsearch
 
     """
-    # if settings.DEBUG:
+
+    hmm_results_path = settings.BASE_DIR + f'/results/{organism_name}/hmm_out.txt'
+
+    if settings.DEBUG:
+        if os.path.exists(f'{settings.BASE_DIR}/results/{organism_name}/output.csv'):
+            df = pd.read_csv(settings.BASE_DIR + f'/results/{organism_name}/output.csv')
+            df.to_csv(settings.BASE_DIR + f'/results/{organism_name}/output.csv')
+            return df.to_json(orient='records', index=True)
+
     #     if os.path.exists(f'{settings.BASE_DIR}/results/{organism_name}/output.csv'):
     #         df = pd.read_csv(settings.BASE_DIR + f'/results/{organism_name}/output.csv')
     #         return df.to_html()
-    hmm_results_path = settings.BASE_DIR + f'/results/{organism_name}/hmm_out.txt'
     clean_hmm_output(organism_name, hmm_results_path)
     df = pd.read_csv(settings.BASE_DIR + f'/results/{organism_name}/output.csv', names=[
         'target_name', 'PFam', 'query_name', 'accession', 'fs_E-value', 'fs_score', 'fs_bias', 'bd_E-value',
         'bd_score', 'bd_bias', 'exp', 'reg', 'clu', 'ov', 'env', 'dom', 'rep', 'inc', 'description_of_target'])
+    df.to_csv(settings.BASE_DIR + f'/results/{organism_name}/output.csv')
     return df.to_json(orient='records', index=True)
 
 
@@ -207,8 +234,12 @@ def main(organism_name, genome_link, hmm_file_path):
 
     if not os.path.exists(f'{settings.BASE_DIR}/results/{organism_name}/'):
         os.mkdir(f'{settings.BASE_DIR}/results/{organism_name}/')
+    print(CRED + "Downloading Genome" + CEND)
 
-    download_genome(genome_link, organism_name)
+    download_obj = download_genome(genome_link, organism_name)
+    print(CRED + str(download_obj) + CEND)
+    if download_obj['gzip']:
+        unzip_genome(download_obj['path'])
 
     prodigal_proteome_predictions(organism_name)
 
@@ -226,4 +257,3 @@ def main(organism_name, genome_link, hmm_file_path):
     hmm_per_sequence_hits_table(organism_name, hmm_file_path, 'protein_translation', 'hmm_out.txt')
 
     return f'{settings.BASE_DIR}/results/{organism_name}/hmm_out.txt'
-
